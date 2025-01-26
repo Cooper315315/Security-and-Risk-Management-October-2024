@@ -4,16 +4,20 @@ Individual contribution to projects
 During the team project assignment in unit 6, my individual contribution comes in many forms as a team leader, which I consider a very valuable learning experience and capability enhancement both academically and professionally. 
 
 **1.	Team management and task delegations**
+
 As a leader, one of the main responsibilities is organizing the team to achieve the goal. In order to do that, it is crucial to be able to break down complex tasks and delegate tasks to team members with a strategic judgment, meaning I had to understand each team members’ strengths and weakness, as well as their preferences in order to assign the most suitable tasks accordingly. This process enhanced my capability in making sound judgement as well as my interpersonal skills.
 
-**2.	Selection of Threat Modelling Methodology **
+**2.	Selection of Threat Modelling Methodology**
+
 During assignment in Unit 6, I selected a threat modelling methodology called “OCTAVE-S” because I considered it is a more suitable options for the assignment’s requirement. While Pampered Pets being a small-size, local pet food shop, “OCTAVE-S” method would be a more industrial suitable choice so I applied criticality and analytical thinking approach on this situation. 
 
-**3.	Work supervision and improvement
-**I was also involved in reviewing, providing additional input and enhancement to team. During the progress review of the team project, I noticed an improvement could be made to the “Asset Identification” in the Risk Assessment phase in Pampered Pets. In Figure 1, I have inputted additional physical assets “Computers” and “Wireless gateway and Hub” because I considered these assets are also potential vulnerabilities to the computer and network systems of Pampered Pets store that could not be disregarded. This responsibility sharpened my critical thinking skills and my experience in paying attention to details. Furthermore, it also enhanced my mindset in continuous improvement and applying researched knowledge into projects.
+**3.	Work supervision and improvement**
 
-**4.	Team meeting arrangement and Project Submission
-**Organizing team meetings is also a crucial part of being a team leader as it also strengthens my time management skills as well as communication skills in the process. During the meeting important to listen carefully and respect other people’s viewpoint; what’s more, it is even more crucial to gather everyone’s opinions and come up with a strategic approach forward with consensus amongst the team. This process, without a doubt could build up my ability to summarize complex information and present it clearly and directly, such skill is valuable in professional workplace as well.
+I was also involved in reviewing, providing additional input and enhancement to team. During the progress review of the team project, I noticed an improvement could be made to the “Asset Identification” in the Risk Assessment phase in Pampered Pets. In Figure 1, I have inputted additional physical assets “Computers” and “Wireless gateway and Hub” because I considered these assets are also potential vulnerabilities to the computer and network systems of Pampered Pets store that could not be disregarded. This responsibility sharpened my critical thinking skills and my experience in paying attention to details. Furthermore, it also enhanced my mindset in continuous improvement and applying researched knowledge into projects.
+
+**4.	Team meeting arrangement and Project Submission**
+
+Organizing team meetings is also a crucial part of being a team leader as it also strengthens my time management skills as well as communication skills in the process. During the meeting important to listen carefully and respect other people’s viewpoint; what’s more, it is even more crucial to gather everyone’s opinions and come up with a strategic approach forward with consensus amongst the team. This process, without a doubt could build up my ability to summarize complex information and present it clearly and directly, such skill is valuable in professional workplace as well.
 
 **Evaluation of final project vs status document:**
 Upon completing project in Unit 6 and Unit 11, I observed that there is a significant progression in complexity and depth in learning and producing material in the process.
