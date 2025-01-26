@@ -1,6 +1,4 @@
 # Security-and-Risk-Management-October-2024 - e-Portfolio 
-
-Individual contribution to projects
 During the team project assignment in unit 6, my individual contribution comes in many forms as a team leader, which I consider a very valuable learning experience and capability enhancement both academically and professionally. 
 
 ## **1.	Team management and task delegations**
