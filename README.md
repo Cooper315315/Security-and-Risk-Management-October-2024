@@ -25,6 +25,3 @@ In unit 11, assignment requires a comprehensive understanding in a more complex 
 In addition, unit 11 involves Business Continuity and discovery plan design which was also relatively more complicated compared in unit 6. Because unit 6 assignment was using developed methodology to assess an entity, whereas in unit 11, it requires not only to understand a certain technology, but also use these technologies to develop a solution for Pampered Pets. Because of that, it makes the complexity to a higher level.
 
 To conclude, completing assignments in unit 6 and unit 11, I could realize a valuable progression in fundamental knowledge and technical capabilities in Security and Risk assessment. The leadership role I undertook not only improved my technical skills in cyber security, but also strengthen my soft skills such as leadership, communication project management as well as motivation. I will certainly put these newly developed and enhanced skills into good use, including in my professional work environment and academic journey.
-
-
-![image](https://github.com/user-attachments/assets/3ba740bb-1711-42f6-b30c-9ffd3c1e5c1d)
